@@ -15,6 +15,6 @@ package.json
 readme.md  
 
 ## extensions
-router  
+router : npm i react-router --save  
 typescript  
   
