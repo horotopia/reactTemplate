@@ -15,6 +15,15 @@ package.json
 readme.md  
 
 ## extensions
-router : npm i react-router --save  
+npm i *** --save  
+  
+@types/node  
+@types/react  
+@types/react-dom  
+@types/react-router-dom  
+react  
+react-dom  
+react-router-dom  
+react-scripts  
 typescript  
   
